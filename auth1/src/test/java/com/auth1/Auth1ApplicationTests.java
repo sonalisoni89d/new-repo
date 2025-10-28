@@ -5,7 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class Auth1ApplicationTests {
-
+int x=8000;
 	@Test
 	void contextLoads() {
 	}
