@@ -5,6 +5,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Auth1Application {
+//new code line  
+int x=1000;
+int y=200;
    int new=568;
    String s="sonali soni";
    String r="Ranjan Priye";
