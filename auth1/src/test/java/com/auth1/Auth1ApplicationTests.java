@@ -6,7 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class Auth1ApplicationTests {
 int test=100;
-String r="Sonali";
+	String s="Ranjan";
 	@Test
 	void contextLoads() {
 	}
